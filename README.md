@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Bungee&size=30&duration=1500&pause=99999999&color=8B5CF6&center=true&vCenter=true&width=520&height=55&lines=%F0%9F%91%80+PROFILE+VIEWS" alt="views heading" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kishore-DP&label=&color=8b5cf6&style=for-the-badge" alt="visitor count" height="70" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kishore-DP.readme&left_text=%20&left_color=0d1117&right_color=0d1117" alt="visitor count" height="60" />
 </p>
 
 <!-- ===== HEADING: About (Pacifico) ===== -->
@@ -17,28 +17,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=34&duration=1500&pause=99999999&color=F72585&center=true&vCenter=true&width=520&height=60&lines=so...+who+even+is+this+guy%3F" alt="about heading" />
 </p>
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-      <br/>
-      🎯 &nbsp;Part team leader, part debater, full-time <b>"lemme just fix one more bug"</b> guy.
-      <br/><br/>
-      🛠️ &nbsp;Fluent in <b>React Native · Expo · Firebase · TypeScript</b> <i>(and mild panic)</i>
-      <br/><br/>
-      🚀 &nbsp;My code refuses to sit in repos collecting dust — it goes <b>LIVE</b> and embarrasses me in public
-      <br/><br/>
-      🎮 &nbsp;Offline mode: sports, arguing about things, and <i>pretending</i> I'll sleep early
-      <br/><br/>
-      📫 &nbsp;Slide into the inbox → <a href="mailto:kishoredp27@gmail.com"><b>kishoredp27@gmail.com</b></a>
-    </td>
-    <td width="42%" valign="top" align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="90" alt="coding" />
-      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="90" alt="react" />
-      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="90" alt="typescript" />
-      <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="90" alt="js" />
-    </td>
-  </tr>
-</table>
+> 👋 &nbsp;Hey! I'm Kishore — the guy who says *"this'll take 5 minutes,"* vanishes for 3 hours, and comes back with a fully deployed app and zero memory of eating lunch.
+
+&nbsp;&nbsp;🧠 &nbsp;I **lead teams**, *survive* debates, and treat every bug like a personal insult  
+&nbsp;&nbsp;📱 &nbsp;My love language is **React Native · Expo · Firebase** — I ship apps faster than I reply to texts  
+&nbsp;&nbsp;☕ &nbsp;Running on caffeine, chaos, and an unhealthy need to see things go **LIVE**  
+&nbsp;&nbsp;🏀 &nbsp;Not coding? Then I'm arguing about sports or losing sleep over *"just one more feature"*  
+&nbsp;&nbsp;📬 &nbsp;Wanna build something cool *(or just say hi)?* → **[kishoredp27@gmail.com](mailto:kishoredp27@gmail.com)**
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" alt="coding" />
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" alt="react" />
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" alt="typescript" />
+  &nbsp;&nbsp;
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" alt="js" />
+</p>
 
 <!-- ===== HEADING: Projects (Press Start 2P) ===== -->
 <p align="center">
