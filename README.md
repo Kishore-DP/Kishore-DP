@@ -12,29 +12,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Kishore-DP.readme&left_text=%20&left_color=0d1117&right_color=0d1117" alt="visitor count" height="60" />
 </p>
 
-<!-- ===== HEADING: About (Pacifico) ===== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=34&duration=1500&pause=99999999&color=F72585&center=true&vCenter=true&width=520&height=60&lines=so...+who+even+is+this+guy%3F" alt="about heading" />
-</p>
-
-> 👋 &nbsp;Hey! I'm Kishore — the guy who says *"this'll take 5 minutes,"* vanishes for 3 hours, and comes back with a fully deployed app and zero memory of eating lunch.
-
-&nbsp;&nbsp;🧠 &nbsp;I **lead teams**, *survive* debates, and treat every bug like a personal insult  
-&nbsp;&nbsp;📱 &nbsp;My love language is **React Native · Expo · Firebase** — I ship apps faster than I reply to texts  
-&nbsp;&nbsp;☕ &nbsp;Running on caffeine, chaos, and an unhealthy need to see things go **LIVE**  
-&nbsp;&nbsp;🏀 &nbsp;Not coding? Then I'm arguing about sports or losing sleep over *"just one more feature"*  
-&nbsp;&nbsp;📬 &nbsp;Wanna build something cool *(or just say hi)?* → **[kishoredp27@gmail.com](mailto:kishoredp27@gmail.com)**
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" alt="coding" />
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" alt="react" />
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80" alt="typescript" />
-  &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" alt="js" />
-</p>
-
 <!-- ===== HEADING: Projects (Press Start 2P) ===== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1500&pause=99999999&color=00E5FF&center=true&vCenter=true&width=600&height=60&lines=stuff+i+actually+shipped" alt="projects heading" />
