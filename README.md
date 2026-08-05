@@ -1,6 +1,6 @@
-<!-- ===== SYNTHWAVE 3D HEADER (animated) ===== -->
+<!-- ===== ORBIT HEADER (animated) ===== -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/main/assets/synth-header.gif" alt="Kishore — synthwave" />
+  <img width="100%" src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/main/assets/orbit-header.gif" alt="orbit" />
 </p>
 
 <!-- ===== BIG VISITOR COUNTER ===== -->
