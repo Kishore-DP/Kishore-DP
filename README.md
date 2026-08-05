@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Bungee&size=30&duration=1500&pause=99999999&color=8B5CF6&center=true&vCenter=true&width=520&height=55&lines=%F0%9F%91%80+PROFILE+VIEWS" alt="views heading" />
 </p>
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kishore-DP.readme&left_text=%20&left_color=0d1117&right_color=0d1117" alt="visitor count" height="60" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kishore-DP.readme&left_text=%20&left_color=transparent&right_color=transparent" alt="visitor count" height="180" />
 </p>
 
 <!-- ===== HEADING: Projects (Press Start 2P) ===== -->
@@ -17,25 +17,42 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1500&pause=99999999&color=00E5FF&center=true&vCenter=true&width=600&height=60&lines=stuff+i+actually+shipped" alt="projects heading" />
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="230">
-      <img src="https://raw.githubusercontent.com/Kishore-DP/Portfolio/main/logos/playnix.png" width="72" height="72" /><br/><br/>
-      <b>🎵 Playnix</b><br/><br/>
-      <a href="https://kishore-dp.github.io/Playnix/">📂 Peek inside</a>
-    </td>
-    <td align="center" width="230">
-      <img src="https://raw.githubusercontent.com/Kishore-DP/Portfolio/main/logos/portfolio.png" width="72" height="72" /><br/><br/>
-      <b>🌐 Portfolio</b><br/><br/>
-      <a href="https://github.com/Kishore-DP/Portfolio">📂 Peek inside</a>
-    </td>
-    <td align="center" width="230">
-      <img src="https://raw.githubusercontent.com/Kishore-DP/Portfolio/main/logos/sitegen.png" width="72" height="72" /><br/><br/>
-      <b>🤖 SiteGen AI</b><br/><br/>
-      <a href="https://github.com/Kishore-DP/sitegen-ai">📂 Peek inside</a>
-    </td>
-  </tr>
-</table>
+<!-- Playnix -->
+<p align="center">
+  <a href="https://kishore-dp.github.io/Playnix/"><img src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/main/assets/logos/playnix.png" width="110" alt="Playnix" /></a>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=36&duration=1500&pause=99999999&color=A855F7&center=true&vCenter=true&width=400&height=55&lines=Playnix" alt="Playnix" />
+</p>
+<p align="center">
+  <a href="https://kishore-dp.github.io/Playnix/"><b>📂 Peek inside →</b></a>
+</p>
+
+<br/>
+
+<!-- Portfolio -->
+<p align="center">
+  <a href="https://github.com/Kishore-DP/Portfolio"><img src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/main/assets/logos/portfolio.png" width="110" alt="Portfolio" /></a>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=36&duration=1500&pause=99999999&color=00E5FF&center=true&vCenter=true&width=400&height=55&lines=Portfolio" alt="Portfolio" />
+</p>
+<p align="center">
+  <a href="https://github.com/Kishore-DP/Portfolio"><b>📂 Peek inside →</b></a>
+</p>
+
+<br/>
+
+<!-- SiteGen AI -->
+<p align="center">
+  <a href="https://github.com/Kishore-DP/sitegen-ai"><img src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/main/assets/logos/sitegen.png" width="100" alt="SiteGen AI" /></a>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=36&duration=1500&pause=99999999&color=FF6B35&center=true&vCenter=true&width=400&height=55&lines=SiteGen+AI" alt="SiteGen AI" />
+</p>
+<p align="center">
+  <a href="https://github.com/Kishore-DP/sitegen-ai"><b>📂 Peek inside →</b></a>
+</p>
 
 <!-- ===== SNAKE ===== -->
 <p align="center">
