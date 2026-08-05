@@ -26,11 +26,11 @@
 
 <!-- Grouped logo+name cards, each linking to its repo -->
 <p align="center">
-  <a href="https://github.com/Kishore-DP/Playnix"><img src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/main/assets/logos/card-playnix.png" width="220" alt="Playnix" /></a>
+  <a href="https://github.com/Kishore-DP/Playnix"><img src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/main/assets/logos/card-playnix.png?v=2" width="220" alt="Playnix" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Kishore-DP/Portfolio"><img src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/main/assets/logos/card-portfolio.png" width="220" alt="Portfolio" /></a>
+  <a href="https://github.com/Kishore-DP/Portfolio"><img src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/main/assets/logos/card-portfolio.png?v=2" width="220" alt="Portfolio" /></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Kishore-DP/sitegen-ai"><img src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/main/assets/logos/card-sitegen.png" width="220" alt="SiteGen AI" /></a>
+  <a href="https://github.com/Kishore-DP/sitegen-ai"><img src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/main/assets/logos/card-sitegen.png?v=2" width="220" alt="SiteGen AI" /></a>
 </p>
 
 <!-- ===== SNAKE ===== -->
