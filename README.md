@@ -8,21 +8,40 @@
   </a>
 </p>
 
-<!-- ===== SOCIAL / PROFILE BADGES ===== -->
+<!-- ===== VISITOR COUNTER ===== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kishore-DP&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="views" />
-  <a href="mailto:kishoredp27@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://kishore-dp.github.io/Playnix/"><img src="https://img.shields.io/badge/Playnix-Live-FF4081?style=for-the-badge&logo=spotify&logoColor=white" /></a>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="70%" alt="line" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kishore-DP&label=%E2%9C%A6+VISITORS+HERE+SO+FAR&color=8b5cf6&style=for-the-badge&abbreviated=true" alt="visitor counter" />
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; <code>~/kishore</code> — whoami
+## 💫 About Me
 
-<!-- Terminal-style animated intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2200&pause=900&color=3EE6B0&background=0D1117&vCenter=true&multiline=true&width=640&height=210&lines=%24+whoami;%3E+Kishore+%E2%80%94+team+leader%2C+debater+%26+sports-driven+coder;%24+cat+stack.txt;%3E+React+Native+%C2%B7+Expo+%C2%B7+Firebase+%C2%B7+TypeScript;%24+echo+%24DRIVE;%3E+clean+ideas+%2B+healthy+debate+%2B+the+scoreboard;%24+run+philosophy.sh;%3E+If+I+build+it%2C+it+ships+%E2%80%94+not+just+to+a+repo+%F0%9F%9A%80" alt="terminal about me" />
-</p>
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <br/>
+      🎯 &nbsp;<b>Team leader, debater & sports-driven coder</b> — I turn ideas into things people can actually use.
+      <br/><br/>
+      🛠️ &nbsp;I live in <b>React Native · Expo · Firebase · TypeScript</b>
+      <br/><br/>
+      🚀 &nbsp;My rule: <i>if I build it, it ships — not just to a repo</i>
+      <br/><br/>
+      🎮 &nbsp;Off-screen you'll find me in <b>debates, sports & chasing the next idea</b>
+      <br/><br/>
+      📫 &nbsp;Reach me → <a href="mailto:kishoredp27@gmail.com"><b>kishoredp27@gmail.com</b></a>
+    </td>
+    <td width="42%" valign="top" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="90" alt="coding" />
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="90" alt="react" />
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="90" alt="typescript" />
+      <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="90" alt="js" />
+    </td>
+  </tr>
+</table>
 
 ---
 
