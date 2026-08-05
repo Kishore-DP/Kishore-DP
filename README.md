@@ -19,20 +19,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1500&pause=99999999&color=00E5FF&center=true&vCenter=true&width=600&height=60&lines=stuff+i+actually+shipped" alt="projects heading" />
 </p>
 
-<!-- Logos row -->
+<!-- Grouped logo+name cards, each linking to its repo -->
 <p align="center">
-  <a href="https://kishore-dp.github.io/Playnix/"><img src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/main/assets/logos/playnix.png" height="115" alt="Playnix" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Kishore-DP/Portfolio"><img src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/main/assets/logos/portfolio.png" height="115" alt="Portfolio" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Kishore-DP/sitegen-ai"><img src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/main/assets/logos/sitegen.png" height="115" alt="SiteGen AI" /></a>
-</p>
-
-<!-- Names row -->
-<p align="center">
-  <a href="https://kishore-dp.github.io/Playnix/"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=28&duration=1500&pause=99999999&color=A855F7&center=true&vCenter=true&width=200&height=45&lines=Playnix" alt="Playnix" /></a>
-  <a href="https://github.com/Kishore-DP/Portfolio"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=28&duration=1500&pause=99999999&color=00E5FF&center=true&vCenter=true&width=200&height=45&lines=Portfolio" alt="Portfolio" /></a>
-  <a href="https://github.com/Kishore-DP/sitegen-ai"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=28&duration=1500&pause=99999999&color=FF6B35&center=true&vCenter=true&width=200&height=45&lines=SiteGen+AI" alt="SiteGen AI" /></a>
+  <a href="https://github.com/Kishore-DP/Playnix"><img src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/main/assets/logos/card-playnix.png" width="220" alt="Playnix" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Kishore-DP/Portfolio"><img src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/main/assets/logos/card-portfolio.png" width="220" alt="Portfolio" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Kishore-DP/sitegen-ai"><img src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/main/assets/logos/card-sitegen.png" width="220" alt="SiteGen AI" /></a>
 </p>
 
 <!-- ===== SNAKE ===== -->
