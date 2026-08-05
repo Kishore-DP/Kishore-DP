@@ -1,9 +1,6 @@
-<!-- ===== SPACE HEADER ===== -->
+<!-- ===== SYNTHWAVE 3D HEADER (animated) ===== -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/main/assets/space-header.png" alt="Kishore — space" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=17&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=680&height=42&lines=INITIATING+LAUNCH+SEQUENCE...;3+..+2+..+1+..+LIFTOFF+%F0%9F%9A%80;DESTINATION%3A+SHIP+COOL+STUFF" alt="launch sequence" />
+  <img width="100%" src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/main/assets/synth-header.gif" alt="Kishore — synthwave" />
 </p>
 
 <!-- ===== BIG VISITOR COUNTER ===== -->
