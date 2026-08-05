@@ -1,5 +1,10 @@
-<!-- ===== ANIMATED HEADER BANNER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=Hi%2C%20I'm%20Kishore%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42" />
+<!-- ===== RETRO ARCADE HEADER ===== -->
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/main/assets/arcade-header.png" alt="Kishore — arcade" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1400&pause=600&color=FDE047&center=true&vCenter=true&width=620&height=40&lines=INSERT+COIN+%E2%96%B6+PRESS+START" alt="insert coin" />
+</p>
 
 <!-- ===== BIG VISITOR COUNTER ===== -->
 <p align="center">
