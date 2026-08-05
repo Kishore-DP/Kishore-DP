@@ -1,9 +1,9 @@
-<!-- ===== RETRO ARCADE HEADER ===== -->
+<!-- ===== SPACE HEADER ===== -->
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/main/assets/arcade-header.png" alt="Kishore — arcade" />
+  <img width="100%" src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/main/assets/space-header.png" alt="Kishore — space" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=1400&pause=600&color=FDE047&center=true&vCenter=true&width=620&height=40&lines=INSERT+COIN+%E2%96%B6+PRESS+START" alt="insert coin" />
+  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=17&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=680&height=42&lines=INITIATING+LAUNCH+SEQUENCE...;3+..+2+..+1+..+LIFTOFF+%F0%9F%9A%80;DESTINATION%3A+SHIP+COOL+STUFF" alt="launch sequence" />
 </p>
 
 <!-- ===== BIG VISITOR COUNTER ===== -->
