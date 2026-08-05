@@ -44,12 +44,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
-
-<br/>
-
-<!-- ===== CREATIVE FOOTER (Caveat handwriting) ===== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=28&duration=2200&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=you+scrolled+this+far...+we're+basically+friends+now;no+bugs+were+harmed+here+(that's+a+lie);star+my+repos+%E2%86%92+it's+free+serotonin+%E2%AD%90" alt="footer" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=110&section=footer&animation=twinkling" />
