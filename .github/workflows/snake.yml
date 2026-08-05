@@ -22,6 +22,18 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.svg
 
+      - name: Generate big transparent view counter
+        run: |
+          mkdir -p dist
+          COUNT=$(curl -s "https://visitor-badge.laobi.icu/badge?page_id=Kishore-DP.profile-views" | grep -oE '<text[^>]*>[0-9,]+</text>' | grep -oE '[0-9,]+' | tail -1)
+          COUNT=${COUNT:-0}
+          echo "view count = $COUNT"
+          cat > dist/views.svg <<SVG
+          <svg xmlns="http://www.w3.org/2000/svg" width="480" height="150" viewBox="0 0 480 150">
+            <text x="240" y="120" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="120" font-weight="800" fill="#8B5CF6">$COUNT</text>
+          </svg>
+          SVG
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

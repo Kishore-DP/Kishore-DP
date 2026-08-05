@@ -9,8 +9,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Bungee&size=30&duration=1500&pause=99999999&color=8B5CF6&center=true&vCenter=true&width=520&height=55&lines=%F0%9F%91%80+PROFILE+VIEWS" alt="views heading" />
 </p>
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kishore-DP.readme&left_text=%20&left_color=transparent&right_color=transparent" alt="visitor count" height="180" />
+  <img src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/output/views.svg" alt="profile views" height="120" />
 </p>
+<!-- 1px tracking pixel: registers a hit on every profile visit so the counter above stays real -->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Kishore-DP.profile-views&left_text=%20&left_color=transparent&right_color=transparent" width="1" height="1" alt="" />
 
 <!-- ===== HEADING: Projects (Press Start 2P) ===== -->
 <p align="center">
