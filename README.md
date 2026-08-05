@@ -17,33 +17,19 @@
 
 ---
 
-## 🌈 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; Who am I?
 
-I'm Kishore — a team leader, debater, coder, and sports-driven problem solver who turns ideas into action through logic and creativity.
+> *Team leader, debater & sports-driven coder — I turn ideas into things people can actually use.*
 
-```javascript
-const kishore = {
-  role: "Full-stack & Mobile Developer",
-  currentlyBuilding: "Playnix 🎵 — a social music app",
-  stack: ["React Native", "Expo", "Firebase", "JavaScript", "TypeScript"],
-  alsoBuilt: ["Portfolio", "SiteGen AI"],
-  motto: "If I build it, I ship it 🚀",
-  reachMe: "nividp@umich.edu"
+```typescript
+const kishore: Developer = {
+  role:       "Full-stack & Mobile Developer",
+  toolkit:    ["React Native", "Expo", "Firebase", "TypeScript"],
+  driven_by:  ["clean ideas", "healthy debate", "the scoreboard"],
+  ask_me:     "mobile apps & shipping things to the web",
+  philosophy: "if I build it, it goes live — not just to a repo 🚀",
 };
 ```
-
-- 🔭 Currently building **[Playnix](https://kishore-dp.github.io/Playnix/)** — free music search, offline library & Firebase social features (friends, chat, presence, public playlists)
-- 🤖 Built **SiteGen AI** — turn any Google Maps business link into a hosted website
-- 💬 Ask me about **React Native, Expo, Firebase & web deployment**
-- ⚡ Fun fact: most of my projects go **live**, not just to a repo
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,expo,js,ts,firebase,html,css,nodejs,git,github,vscode,figma&theme=dark" />
-</p>
 
 ---
 
@@ -53,31 +39,12 @@ const kishore = {
   <tr>
     <td align="center">🎵 <b>Playnix</b><br/>Social music app<br/><a href="https://kishore-dp.github.io/Playnix/">🔗 Live</a></td>
     <td align="center">🌐 <b>Portfolio</b><br/>My world of innovation<br/><a href="https://github.com/Kishore-DP/Portfolio">🔗 Repo</a></td>
-    <td align="center">🤖 <b>SiteGen AI</b><br/>AI website generator<br/><a href="https://github.com/Kishore-DP/sitegen-ai">🔗 Repo</a></td>
+    <td align="center">🤖 <b>SiteGen AI</b><br/>Maps link → live site<br/><a href="https://github.com/Kishore-DP/sitegen-ai">🔗 Repo</a></td>
   </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kishore-DP&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore-DP&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kishore-DP&theme=radical&hide_border=true" />
-</p>
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kishore-DP&theme=radical&no-frame=true&column=7&margin-w=10" />
-</p>
-
 <!-- ===== CONTRIBUTION SNAKE ===== -->
-## 🐍 Contribution Snake
+## 🐍 Watch my contributions get eaten
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
@@ -85,5 +52,9 @@ const kishore = {
 
 ---
 
-<!-- ===== ANIMATED FOOTER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=20&fontColor=ffffff&animation=twinkling" />
+<!-- ===== CREATIVE FOOTER ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Got+an+idea%3F+Let's+ship+it.+%F0%9F%9A%80;Built+with+curiosity+%2B+caffeine+%E2%98%95;Scroll+up+%E2%86%91+you+missed+the+snake+%F0%9F%90%8D" alt="footer" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=110&section=footer&animation=twinkling" />
