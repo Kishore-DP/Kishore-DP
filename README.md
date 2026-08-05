@@ -1,6 +1,8 @@
-<!-- ===== ORBIT HEADER (animated) ===== -->
+<!-- ===== HEADER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Hi%2C%20I'm%20Kishore%20👋&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=40&stroke=00000022" />
+
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Kishore-DP/Kishore-DP/main/assets/orbit-header.gif" alt="orbit" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2600&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&lines=Full-stack+%26+Mobile+Developer;React+Native+%C2%B7+Firebase+%C2%B7+AI;I+ship+what+I+build+%F0%9F%9A%80" alt="subtitle" />
 </p>
 
 <!-- ===== BIG VISITOR COUNTER ===== -->
