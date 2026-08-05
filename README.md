@@ -11,25 +11,18 @@
 <!-- ===== SOCIAL / PROFILE BADGES ===== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kishore-DP&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="views" />
-  <a href="mailto:nividp@umich.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:kishoredp27@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://kishore-dp.github.io/Playnix/"><img src="https://img.shields.io/badge/Playnix-Live-FF4081?style=for-the-badge&logo=spotify&logoColor=white" /></a>
 </p>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp; Who am I?
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; <code>~/kishore</code> — whoami
 
-> *Team leader, debater & sports-driven coder — I turn ideas into things people can actually use.*
-
-```typescript
-const kishore: Developer = {
-  role:       "Full-stack & Mobile Developer",
-  toolkit:    ["React Native", "Expo", "Firebase", "TypeScript"],
-  driven_by:  ["clean ideas", "healthy debate", "the scoreboard"],
-  ask_me:     "mobile apps & shipping things to the web",
-  philosophy: "if I build it, it goes live — not just to a repo 🚀",
-};
-```
+<!-- Terminal-style animated intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2200&pause=900&color=3EE6B0&background=0D1117&vCenter=true&multiline=true&width=640&height=210&lines=%24+whoami;%3E+Kishore+%E2%80%94+team+leader%2C+debater+%26+sports-driven+coder;%24+cat+stack.txt;%3E+React+Native+%C2%B7+Expo+%C2%B7+Firebase+%C2%B7+TypeScript;%24+echo+%24DRIVE;%3E+clean+ideas+%2B+healthy+debate+%2B+the+scoreboard;%24+run+philosophy.sh;%3E+If+I+build+it%2C+it+ships+%E2%80%94+not+just+to+a+repo+%F0%9F%9A%80" alt="terminal about me" />
+</p>
 
 ---
 
@@ -37,9 +30,24 @@ const kishore: Developer = {
 
 <table align="center">
   <tr>
-    <td align="center">🎵 <b>Playnix</b><br/>Social music app<br/><a href="https://kishore-dp.github.io/Playnix/">🔗 Live</a></td>
-    <td align="center">🌐 <b>Portfolio</b><br/>My world of innovation<br/><a href="https://github.com/Kishore-DP/Portfolio">🔗 Repo</a></td>
-    <td align="center">🤖 <b>SiteGen AI</b><br/>Maps link → live site<br/><a href="https://github.com/Kishore-DP/sitegen-ai">🔗 Repo</a></td>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/Kishore-DP/Portfolio/main/logos/playnix.png" width="60" height="60" /><br/>
+      🎵 <b>Playnix</b><br/>
+      <sub>Social music app</sub><br/>
+      <a href="https://kishore-dp.github.io/Playnix/">🔗 Live</a>
+    </td>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/Kishore-DP/Portfolio/main/logos/portfolio.png" width="60" height="60" /><br/>
+      🌐 <b>Portfolio</b><br/>
+      <sub>My world of innovation</sub><br/>
+      <a href="https://github.com/Kishore-DP/Portfolio">🔗 Repo</a>
+    </td>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/Kishore-DP/Portfolio/main/logos/sitegen.png" width="60" height="60" /><br/>
+      🤖 <b>SiteGen AI</b><br/>
+      <sub>Maps link → live site</sub><br/>
+      <a href="https://github.com/Kishore-DP/sitegen-ai">🔗 Repo</a>
+    </td>
   </tr>
 </table>
 
