@@ -16,7 +16,7 @@
 
 <!-- ===== HEADING: Projects (Press Start 2P) ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1500&pause=99999999&color=00E5FF&center=true&vCenter=true&width=600&height=60&lines=stuff+i+actually+shipped" alt="projects heading" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=1500&pause=99999999&color=00E5FF&center=true&vCenter=true&width=600&height=60&lines=stuff+i%27m+building" alt="projects heading" />
 </p>
 
 <!-- Grouped logo+name cards, each linking to its repo -->
