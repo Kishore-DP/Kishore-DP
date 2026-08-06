@@ -1,5 +1,5 @@
 <!-- ===== HEADER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Hi%2C%20I'm%20Kishore%20DP.&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=45&stroke=00000022" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Hi%2C%20I'm%20Kishore%20D%20P.&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=45&stroke=00000022" />
 
 <!-- ===== BIG VISITOR COUNTER ===== -->
 <p align="center">
